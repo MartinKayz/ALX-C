@@ -4,5 +4,6 @@
 main()
 {
     printf("My neighbour smokes weed! \n This is my first C Program. \n");
-    return 0;
+    int ch = 2;
+    return ch;
 }
